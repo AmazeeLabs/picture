@@ -382,6 +382,7 @@ function picture_theme() {
         'image_styles' => array(),
         'fallback_image_style' => NULL,
         'sizes' => NULL,
+        'lazyload' => NULL,
       ),
     ),
   );
